@@ -1,0 +1,24 @@
+.forms{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    width: 33%;
+}
+
+form div{
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-bar{
+    display: flex;
+    background-color: aquamarine;
+}
+
+.flex{
+    display: flex;
+}
